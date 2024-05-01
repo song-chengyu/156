@@ -1,6 +1,6 @@
 {
   "spider": "./fix140412.jar;md5;fc0e5aa90d33991dd6d56a6b1ed616aa",
-  "wallpaper": "https://img-blog.csdnimg.cn/9cd8629b850741f09c05184895607d69.jpg#pic_center",
+  "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
       "group": "redirect",
@@ -8,7 +8,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=http://pandown.pro/tvbox/zhibo.txt=="
+            "proxy://do=live&type=txt&ext=aHR0cDovL3BhbmRvd24ucHJvL3R2Ym94L3poaWJvLnR4dA=="
           ]
         }
       ]
